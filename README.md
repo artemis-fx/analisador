@@ -1,0 +1,2 @@
+# analisador
+ analisador de trinangulos
